@@ -3,7 +3,7 @@
 package Arraylist;
 import java.util.LinkedList;
 
-public class ReplaceElementLinkedList {	 
+public class ReplaceElementLinkedList {	                //create class
 	 public static void main(String[] args) {
 	 
 	    // Create a LinkedList
@@ -19,8 +19,8 @@ public class ReplaceElementLinkedList {
 	   
 	    // Replacing 4th Element with new value
 	    linkedlist.set(3, "Marigold");
-        System.out.println("The value of fourth element changed.");
-        System.out.println("New linked list: " + linkedlist);
+        System.out.println("The value of fourth element changed."); //print this statement
+        System.out.println("New linked list: " + linkedlist);       //after replacing display elements
 	 }
 	}
 
