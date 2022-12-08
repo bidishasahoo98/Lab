@@ -4,7 +4,7 @@ package Arraylist;
 
 import java.util.ArrayList;
 
-public class CompareArray {
+public class CompareArray {                              //create class
 	public static void main(String[] args) {
    ArrayList<String>al = new ArrayList<String>(); 	// taking one string type arraylist named al1
 	//adding elements in the arraylist
