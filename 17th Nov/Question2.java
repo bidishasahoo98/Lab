@@ -10,7 +10,7 @@ created needs to be returned.*/
 package Arraylist;
 import java.util.ArrayList;
 
-public class Question2 {
+public class Question2 {                                        //create class
 	ArrayList<Integer> n = new ArrayList<Integer>(); 	// instance ArrayList 1
 	ArrayList<Integer> n1 = new ArrayList<Integer>(); 	// instance ArrayList 2
 	
